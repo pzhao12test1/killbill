@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright 2010-2013 Ning, Inc.
   ~ Copyright 2014-2015 Groupon, Inc
@@ -21,10 +20,10 @@
     <parent>
         <artifactId>killbill-oss-parent</artifactId>
         <groupId>org.kill-bill.billing</groupId>
-        <version>0.140.45</version>
+        <version>0.140.39</version>
     </parent>
     <artifactId>killbill</artifactId>
-    <version>0.18.15-SNAPSHOT</version>
+    <version>0.18.13-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>killbill</name>
     <description>Library for managing recurring subscriptions and the associated billing</description>
@@ -60,3 +59,4 @@
         <killbill.version>${project.version}</killbill.version>
     </properties>
 </project>
+
